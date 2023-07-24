@@ -1,2 +1,2 @@
-# PrecursoHenry
-es repositorio de prueba de precurso modulo 2
+Esto es una prueba para crear un repositorio y clonarlo desde github a la pc
+
